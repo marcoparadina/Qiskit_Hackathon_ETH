@@ -1,21 +1,10 @@
-# QEC Hack ETHZ 2023
+# Qiskit Hackathon at ETH Zurich
 
-This project contains a Jupyter Notebook with the challenge by Moody's Analytics for the event __[QEC Hack ETHZ 2023](https://qec.amiv.ethz.ch/qhack23/)__
+The Jupyter Notebook contains our solution to the challenge proposed by Moody's Analytics for the event.
 
-The files folder contains the images for the Jupyter Notebook.
+## CHALLENGE
 
-## INSTALLATION
-
-Install the libraries mentioned in requirements.txt
-It is recommended to work in a virtual environment.
-
-## USAGE
-
-1. Download the project (Jupyter Notebook and files folder).
-
-2. Launch a Jupyter Notebook in your virtual environment.
-
-3. Start coding!
+Design a quantum algorithm to efficiently estimate the mean of a stochastic distribution (specifically a lognormal distribution representing the price evolution of a derivative financial instrument) using Monte Carlo method and Quantum Amplitude Estimation.
 
 ## LICENSE
 
